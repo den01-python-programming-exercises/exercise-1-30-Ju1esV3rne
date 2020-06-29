@@ -1,6 +1,6 @@
 def main():
     #write your code below this line
-    age = int(input("How old are you? "))
+    age = int(input("How old are you?"))
     if 0<=age<=120:
         print("OK")
     else:
